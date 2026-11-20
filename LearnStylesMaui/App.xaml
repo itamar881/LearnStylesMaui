@@ -18,6 +18,7 @@
             <converters:ScoreToGradeConverter x:Key="AppScoreToGradeConverter" />
             <converters:TemperatureTwoWayConverter x:Key="AppTemperatureConverter" />
             <converters:NullOrEmptyToBoolConverter x:Key="AppNullOrEmptyConverter" />
+            <converters:StarsConverter x:Key="StarsConverter"/>
         </ResourceDictionary>
     </Application.Resources>
 </Application>

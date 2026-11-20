@@ -23,7 +23,10 @@
             <Label Text="הדגמת שימוש ב-Value Converters ב-.NET MAUI"
                    Style="{StaticResource PageHeaderLabel}" />
 
-            <Label Text="ממיר ערכים (IValueConverter) מאפשר להמיר מידע מה-ViewModel לתצוגה ויזואלית מתאימה בממשק (UI) ולהפך."
+            <Label Text="ממיר ערכים (
+                   
+                   
+                   ) מאפשר להמיר מידע מה-ViewModel לתצוגה ויזואלית מתאימה בממשק (UI) ולהפך."
                    HorizontalTextAlignment="Center"
                    Margin="0,0,0,10" />
 

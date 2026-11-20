@@ -77,4 +77,8 @@
   <ItemGroup>
     <None Include="..\Learning\MAUI-Learning-Book.pdf" Link="Docs\MAUI-Learning-Book.pdf" />
   </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="NewFolder\" />
+  </ItemGroup>
 </Project>

@@ -8,6 +8,9 @@
     FlowDirection="RightToLeft">
 
     <TabBar>
+        <Tab Title="משימת תרגול" Route="StudentExercisePage">
+            <ShellContent ContentTemplate="{DataTemplate views:StudentExercisePage}" />
+        </Tab>
         <Tab Title="סגנונות (Styles)" Route="StylesDemoPage">
             <ShellContent ContentTemplate="{DataTemplate views:StylesDemoPage}" />
         </Tab>
